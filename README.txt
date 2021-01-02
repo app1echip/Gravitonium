@@ -1,4 +1,4 @@
-Developed with CLion for Windows
+Developed[not yet] with CLion for Windows
 
 * SFML
 * Box2D
