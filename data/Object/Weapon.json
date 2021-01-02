@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Airgun",
+    "size": [
+      15,
+      5
+    ],
+    "damage": 65,
+    "capacity": 35,
+    "rof": 600
+  },
+  {
+    "name": "Rifle",
+    "size": [
+      16,
+      6
+    ],
+    "damage": 60,
+    "capacity": 30,
+    "rof": 550
+  },
+  {
+    "name": "Shotgun",
+    "size": [
+      16,
+      4
+    ],
+    "damage": 80,
+    "capacity": 20,
+    "rof": 50
+  },
+  {
+    "name": "SMG",
+    "size": [
+      15,
+      6
+    ],
+    "damage": 60,
+    "capacity": 30,
+    "rof": 900
+  },
+  {
+    "name": "Sniper",
+    "size": [
+      16,
+      4
+    ],
+    "damage": 90,
+    "capacity": 15,
+    "rof": 30
+  }
+]

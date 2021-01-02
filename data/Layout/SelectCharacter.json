@@ -1,0 +1,86 @@
+[
+  {
+    "position": [
+      16,
+      16
+    ],
+    "boxSize": [
+      0,
+      0
+    ],
+    "message": "Choose a Character",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 999
+  },
+  {
+    "position": [
+      16,
+      32
+    ],
+    "boxSize": [
+      72,
+      16
+    ],
+    "message": "Hacker",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 0
+  },
+  {
+    "position": [
+      16,
+      48
+    ],
+    "boxSize": [
+      48,
+      16
+    ],
+    "message": "RedBoy",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 1
+  },
+  {
+    "position": [
+      16,
+      64
+    ],
+    "boxSize": [
+      48,
+      16
+    ],
+    "message": "Shade",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 2
+  },
+  {
+    "position": [
+      16,
+      80
+    ],
+    "boxSize": [
+      40,
+      16
+    ],
+    "message": "Skeleton",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 3
+  }
+]

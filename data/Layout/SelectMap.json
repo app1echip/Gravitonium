@@ -1,0 +1,154 @@
+[
+  {
+    "position": [
+      112,
+      32
+    ],
+    "boxSize": [
+      384,
+      216
+    ],
+    "message": "",
+    "fontFace": "m3x6",
+    "fontSize": 48,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 888
+  },
+  {
+    "position": [
+      16,
+      16
+    ],
+    "boxSize": [
+      0,
+      0
+    ],
+    "message": "Choose a Map",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 999
+  },
+  {
+    "position": [
+      16,
+      32
+    ],
+    "boxSize": [
+      72,
+      16
+    ],
+    "message": "Cyberpunk",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 0
+  },
+  {
+    "position": [
+      16,
+      48
+    ],
+    "boxSize": [
+      48,
+      16
+    ],
+    "message": "Forest",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 1
+  },
+  {
+    "position": [
+      16,
+      64
+    ],
+    "boxSize": [
+      80,
+      16
+    ],
+    "message": "Industrial",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 2
+  },
+  {
+    "position": [
+      16,
+      80
+    ],
+    "boxSize": [
+      64,
+      16
+    ],
+    "message": "Mountain",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 3
+  },
+  {
+    "position": [
+      16,
+      96
+    ],
+    "boxSize": [
+      40,
+      16
+    ],
+    "message": "Polar",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 4
+  },
+  {
+    "position": [
+      16,
+      112
+    ],
+    "boxSize": [
+      40,
+      16
+    ],
+    "message": "Space",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 5
+  },
+  {
+    "position": [
+      16,
+      128
+    ],
+    "boxSize": [
+      80,
+      16
+    ],
+    "message": "Underwater",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 6
+  }
+]

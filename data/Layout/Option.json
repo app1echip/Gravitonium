@@ -1,0 +1,211 @@
+[
+    {
+        "position": [
+            174,
+            62
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "Fullscreen",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 0
+    },
+    {
+        "position": [
+            174,
+            68
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "Resolution",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "call": 1
+    },
+    {
+        "position": [
+            174,
+            74
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "FrameLimit",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 2
+    },
+    {
+        "position": [
+            174,
+            80
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "MainMenuBgmVolume",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 3
+    },
+    {
+        "position": [
+            174,
+            86
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "InGameBgmVolume",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 4
+    },
+    {
+        "position": [
+            174,
+            92
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "SoundEffectVolume",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 5
+    },
+    {
+        "position": [
+            174,
+            98
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "KeyMaps",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 6
+    },
+    {
+        "position": [
+            174,
+            104
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "MoveLeft",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 7
+    },
+    {
+        "position": [
+            174,
+            110
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "MoveRight",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 8
+    },
+    {
+        "position": [
+            174,
+            116
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "Jump",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 9
+    },
+    {
+        "position": [
+            174,
+            122
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "MoveDown",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 10
+    },
+    {
+        "position": [
+            174,
+            128
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "Shoot",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 11
+    },
+    {
+        "position": [
+            174,
+            134
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "ShowPlayerNameInGame",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 12
+    },
+    {
+        "position": [
+            174,
+            140
+        ],
+        "boxSize": [
+            159,
+            6
+        ],
+        "message": "MaxPlayer",
+        "fontFace": "FSEX302",
+        "fontSize": 6,
+        "fontFillColor": "white",
+        "call": 13
+    }
+]

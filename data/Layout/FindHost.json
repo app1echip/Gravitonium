@@ -1,0 +1,49 @@
+[
+  {
+    "position": [
+      10,
+      10
+    ],
+    "boxSize": [
+      96,
+      32
+    ],
+    "message": "Enter host IP and port:",
+    "fontFace": "m3x6",
+    "fontSize": 32,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "call": 0
+  },
+  {
+    "position": [
+      10,
+      42
+    ],
+    "boxSize": [
+      96,
+      32
+    ],
+    "message": "",
+    "fontFace": "m3x6",
+    "fontSize": 32,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "call": 1
+  },
+  {
+    "position": [
+      10,
+      74
+    ],
+    "boxSize": [
+      96,
+      32
+    ],
+    "message": "Connect to Host",
+    "fontFace": "m3x6",
+    "fontSize": 32,
+    "fontFillColor": "white",
+    "call": 2
+  }
+]

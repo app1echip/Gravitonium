@@ -1,0 +1,20 @@
+{
+    "Fullscreen": false,
+    "Resolution": [
+        1920,
+        1080
+    ],
+    "FrameLimit": 60,
+    "MainMenuBgmVolume": 30,
+    "InGameBgmVolume": 30,
+    "SoundEffectVolume": 100,
+    "KeyMaps": {
+        "MoveLeft": "A",
+        "MoveRight": "D",
+        "Jump": "W",
+        "MoveDown": "S",
+        "Shoot": "K"
+    },
+    "ShowPlayerNameInGame": false,
+    "MaxPlayer": 10
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "position": [
+      10,
+      10
+    ],
+    "boxSize": [
+      96,
+      32
+    ],
+    "message": "Lobby",
+    "fontFace": "m3x6",
+    "fontSize": 32,
+    "fontFillColor": "white",
+    "call": 0
+  },
+  {
+    "position": [
+      10,
+      42
+    ],
+    "boxSize": [
+      96,
+      32
+    ],
+    "message": "Lobby",
+    "fontFace": "m3x6",
+    "fontSize": 32,
+    "fontFillColor": "white",
+    "call": 1
+  }
+]

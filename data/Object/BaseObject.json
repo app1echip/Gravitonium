@@ -1,0 +1,87 @@
+[
+  {
+    "label": "Character",
+    "fixtureOnly": false,
+    "size": [
+      16,
+      32
+    ],
+    "origin": [
+      100,
+      -100
+    ],
+    "bodyType": "dynamic",
+    "bodyFixedRotation": true,
+    "bodyBullet": false,
+    "fixtureDensity": 1.8,
+    "fixtureFriction": 0.5
+  },
+  {
+    "label": "Bullet",
+    "fixtureOnly": false,
+    "size": [
+      2,
+      1
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "bodyType": "dynamic",
+    "bodyFixedRotation": false,
+    "bodyBullet": true,
+    "fixtureDensity": 50,
+    "fixtureFriction": 0.1
+  },
+  {
+    "label": "Weapon",
+    "fixtureOnly": true,
+    "size": [
+      0,
+      0
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "bodyType": "dynamic",
+    "bodyFixedRotation": true,
+    "bodyBullet": false,
+    "fixtureDensity": 1,
+    "fixtureFriction": 0.1
+  },
+  {
+    "label": "Platform",
+    "fixtureOnly": false,
+    "size": [
+      0,
+      0
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "bodyType": "static",
+    "bodyFixedRotation": false,
+    "bodyBullet": false,
+    "fixtureDensity": 0,
+    "fixtureFriction": 0.7
+  },
+  {
+    "label": "Ground",
+    "fixtureOnly": false,
+    "size": [
+      1000,
+      1
+    ],
+    "origin": [
+      192,
+      648
+    ],
+    "bodyType": "static",
+    "bodyFixedRotation": false,
+    "bodyBullet": false,
+    "fixtureDensity": 0,
+    "fixtureFriction": 1
+  }
+]

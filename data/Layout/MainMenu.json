@@ -1,0 +1,121 @@
+[
+  {
+    "position": [
+      104,
+      16
+    ],
+    "boxSize": [
+      0,
+      0
+    ],
+    "message": "Gravitonium",
+    "fontFace": "m3x6",
+    "fontSize": 64,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 9
+  },
+  {
+    "position": [
+      32,
+      104
+    ],
+    "boxSize": [
+      104,
+      16
+    ],
+    "message": "Single-player",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 0
+  },
+  {
+    "position": [
+      32,
+      120
+    ],
+    "boxSize": [
+      200,
+      16
+    ],
+    "message": "Multi-player: Host a game",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 1
+  },
+  {
+    "position": [
+      32,
+      136
+    ],
+    "boxSize": [
+      200,
+      16
+    ],
+    "message": "Multi-player: Join a game",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 2
+  },
+  {
+    "position": [
+      32,
+      152
+    ],
+    "boxSize": [
+      48,
+      16
+    ],
+    "message": "Option",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 3
+  },
+  {
+    "position": [
+      32,
+      168
+    ],
+    "boxSize": [
+      32,
+      16
+    ],
+    "message": "Help",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 4
+  },
+  {
+    "position": [
+      32,
+      184
+    ],
+    "boxSize": [
+      32,
+      16
+    ],
+    "message": "Exit",
+    "fontFace": "FSEX302",
+    "fontSize": 16,
+    "fontFillColor": "white",
+    "outlineThickness": 1,
+    "outlineColor": "black",
+    "call": 5
+  }
+]
